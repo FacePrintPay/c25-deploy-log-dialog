@@ -12,6 +12,6 @@ chmod +x deploy_log_dialog.sh
 ```
 
 ## Source
-/data/data/com.termux/files/home/sovereign-gtp/src/AiKre8tive-Stargate/platform/deploy_log_dialog.sh
+/data/data/com.termux/files/home/constellation25-mono/sovereign-gtp/src/AiKre8tive-Stargate/platform/deploy_log_dialog.sh
 
 Built by Constellation 25 — FacePrintPay / Cygel White
